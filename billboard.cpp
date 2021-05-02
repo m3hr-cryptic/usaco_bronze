@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//LINK: http://www.usaco.org/index.php?page=viewproblem2&cpid=759
 main()
 {
     freopen("billboard.in","r",stdin);
